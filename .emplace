@@ -1,0 +1,212 @@
+([
+(
+source: Brew(()),
+name: "1password-cli",
+flags: [],
+),
+(
+source: Npm(()),
+name: "@microsoft/rush",
+flags: [],
+),
+(
+source: Npm(()),
+name: "@rushstack/heft",
+flags: [],
+),
+(
+source: Brew(()),
+name: "asciinema",
+flags: [],
+),
+(
+source: Npm(()),
+name: "chance-cli",
+flags: [],
+),
+(
+source: Brew(()),
+name: "clash",
+flags: [],
+),
+(
+source: Npm(()),
+name: "clinic",
+flags: [],
+),
+(
+source: Brew(()),
+name: "deno",
+flags: [],
+),
+(
+source: Brew(()),
+name: "diffsitter",
+flags: [],
+),
+(
+source: Npm(()),
+name: "fx",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-bug",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-extras",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-machete",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gnumake",
+flags: [],
+),
+(
+source: Brew(()),
+name: "haskell-stack",
+flags: [],
+),
+(
+source: Brew(()),
+name: "helmfile",
+flags: [],
+),
+(
+source: Brew(()),
+name: "helmsman",
+flags: [],
+),
+(
+source: Brew(()),
+name: "hygen",
+flags: [],
+),
+(
+source: Brew(()),
+name: "jondot/hygen",
+flags: [],
+),
+(
+source: Npm(()),
+name: "json",
+flags: [],
+),
+(
+source: Npm(()),
+name: "json-diff",
+flags: [],
+),
+(
+source: Brew(()),
+name: "json5",
+flags: [],
+),
+(
+source: Npm(()),
+name: "json5",
+flags: [],
+),
+(
+source: Brew(()),
+name: "k3d",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kind",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kubectx",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kubens",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kubie",
+flags: [],
+),
+(
+source: Brew(()),
+name: "microk8s",
+flags: [],
+),
+(
+source: Brew(()),
+name: "microsoft-azure-storage-explorer",
+flags: [],
+),
+(
+source: Brew(()),
+name: "monkeysphere",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "pad-path",
+flags: [],
+),
+(
+source: Brew(()),
+name: "procs",
+flags: [],
+),
+(
+source: Brew(()),
+name: "putty",
+flags: [],
+),
+(
+source: Brew(()),
+name: "raindropio",
+flags: [],
+),
+(
+source: Brew(()),
+name: "remake",
+flags: [],
+),
+(
+source: Npm(()),
+name: "strip-json-comments",
+flags: [],
+),
+(
+source: Npm(()),
+name: "syncpack",
+flags: [],
+),
+(
+source: Brew(()),
+name: "unix2dos",
+flags: [],
+),
+(
+source: Brew(()),
+name: "uuidgen",
+flags: [],
+),
+(
+source: Npm(()),
+name: "verdaccio",
+flags: [],
+),
+(
+source: Brew(()),
+name: "vimr",
+flags: [],
+),
+])
